@@ -7,9 +7,21 @@ color: green;
   font-style: italic;
   text-align: center;
 }
-p {
+p.intro {
   font-family: sans-serif;
+  color: purple;
+}
+p.experience {
+  font-family: monospace;
+  color: orange;
+}
+p.fooc {
+  font-style: normal;
+  background-color: grey;
 }
 ul {
   line-height: 40px;
+}
+body {
+  background-color: green;
 }
